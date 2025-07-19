@@ -34,5 +34,49 @@
   {
     "title":"MysQL",
     "imageSrc":"skills/mysql.png"
+  },
+  {
+    "title":"Git",
+    "imageSrc":"skills/git.png"
+  },
+  {
+    "title":"Github",
+    "imageSrc":"skills/github.png"
+  },
+  {
+    "title":"restapi",
+    "imageSrc":"skills/restapi.png"
+  },
+  {
+    "title":"jpa",
+    "imageSrc":"skills/jpa.png"
+  },
+  {
+    "title":"oracle",
+    "imageSrc":"skills/oracle.png"
+  },
+  {
+    "title":"json",
+    "imageSrc":"skills/json.jpeg"
+  },
+  {
+    "title":"nosql",
+    "imageSrc":"skills/nosql.jpeg"
+  },
+  {
+    "title":"soap",
+    "imageSrc":"skills/soap.png"
+  },
+  {
+    "title":"hibernate",
+    "imageSrc":"skills/hibernate.png"
+  },
+  {
+    "title":"mariadb",
+    "imageSrc":"skills/mariadb.png"
+  },
+  {
+    "title":"apache",
+    "imageSrc":"skills/apache2.png"
   }
 ]
