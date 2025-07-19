@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../pdf/resume.pdf";
+import pdf from "../pdf/JayantaHalder.pdf";
 import hero from "./data/hero.json";
 import Typed from "typed.js";
 
@@ -9,9 +9,9 @@ const Home = () => {
     const options = {
       strings: [
         "Welcome to my profile",
-        "My Name is John Doe",
-        "I'm full stack developer",
-        "Androide Developer (React Native)",
+        "My Name is Jayanta Halder",
+        "I'm Java full stack developer",
+        "Web Developer (Spring Boot, Hibernate ,JPA, Microservices,, JSP, Thymeleaf,React,RestApi,Mysql)",
       ],
       typeSpeed: 50,
       backSpeed: 50,
@@ -29,15 +29,7 @@ const Home = () => {
     <>
       <div className="container home" id="home">
         <div className="left" data-aos="fade-up-right" data-aos-duration="1000">
-          <h1 ref={typedRef}></h1>
-
-          <a
-            href={pdf}
-            download="Resume.pdf"
-            className="btn btn-outline-warning my-3"
-          >
-            Download Resume
-          </a>
+         <h1 ref={typedRef}></h1>
         </div>
         <div className="right">
           <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
