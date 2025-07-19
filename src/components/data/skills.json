@@ -78,5 +78,9 @@
   {
     "title":"apache",
     "imageSrc":"skills/apache2.png"
+  },
+  {
+    "title":"mongodb",
+    "imageSrc":"skills/mongodbb.png"
   }
 ]
