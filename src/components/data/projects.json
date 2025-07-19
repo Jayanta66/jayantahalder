@@ -22,13 +22,6 @@
     "description": "This is a project made with complete Spring Boot and React js.",
     "demo": "Full Stack WEB App",
     "source": "https://www.github.com"
-  },
-  {
-    "key": 4,
-    "title": "I am On Fiverr",
-    "imageSrc": "/assets/company/fiverr.png",
-    "description": "I am on Fiverr. I would like to build your idea's into real.",
-    "demo": "https://www.fiverr.com/s/wk3XGog",
-    "source": "https://www.fiverr.com/s/wk3XGog"
   }
+ 
 ]
